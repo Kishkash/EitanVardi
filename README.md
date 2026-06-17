@@ -14,9 +14,18 @@ I’m currently building real-world projects in Python, Flask, and SQL, and I’
 A full web application that pulls play data via API, stores it in SQL, and displays dynamic stats.  
 - Built backend logic, routes, and database structure  
 - Designed responsive UI
-- Used AI tools to accelerate boilerplate and refactoring
 
 Repo link - https://github.com/Kishkash/hbgs-log
+
+### CS50 Selected Problems — Python & Flask
+**Flask • SQLite • OOP • API Integration**
+A curated collection of CS50 problem set solutions rebuilt with clean, modern Python practices.
+- Implemented Flask apps with CRUD operations, authentication, and session management
+- Designed relational schemas and wrote safe SQL queries
+- Built an OOP credit‑card validator using Luhn’s Algorithm
+- Integrated real‑time stock data via Yahoo Finance (yfinance)
+
+Repo link – https://github.com/CS50-Selected-Problems
 
 ---
 
